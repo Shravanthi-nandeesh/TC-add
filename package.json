@@ -1,0 +1,19 @@
+{
+  "name": "tc-add",
+  "version": "1.0.1",
+  "description": "add number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shravanthi-nandeesh/TC-add.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shravanthi-nandeesh/TC-add/issues"
+  },
+  "homepage": "https://github.com/Shravanthi-nandeesh/TC-add#readme"
+}
